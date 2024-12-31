@@ -58,8 +58,7 @@ Get Recipe Suggestions: The app will use AI to generate a list of recipes you ca
 View Recipe Details: Click on a recipe to view detailed cooking instructions, serving size, and estimated cooking time.
 Save Favorite Recipes: Save your favorite recipes to easily access them later.
 🖌️ Screenshots
-![image](https://github.com/user-attachments/assets/7c996bac-5d94-4b28-9ed3-d468da4e0f3c)
+![image](https://github.com/user-attachments/assets/4f2e6c26-5dc0-4d5c-8134-2ec4f8f01aff)
 
-![image](https://github.com/user-attachments/assets/5b3492c4-e8d2-4bee-b1e8-e8185cf422a2)
-
-![image](https://github.com/user-attachments/assets/b8174f7c-782d-40bf-97ab-aa75e6aaf28d)
+![image](https://github.com/user-attachments/assets/b9b3f65e-0400-4e23-8338-b0ed6ba94f14)
+![image](https://github.com/user-attachments/assets/df5fc7c9-a820-4e40-bcfe-d198fe8491b0)
